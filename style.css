@@ -15,4 +15,9 @@ h2:hover{
 p{
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transition: 0.7s;
 }
+p:hover{
+    transform: scale(1.1);
+}
+    

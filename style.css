@@ -6,3 +6,7 @@ h2{
     width: 400px;
     margin: 50px auto;
 }
+p{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
